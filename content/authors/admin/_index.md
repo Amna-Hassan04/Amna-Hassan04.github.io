@@ -54,7 +54,7 @@ education:
   - area: BS Computer Science
     institution: University of Engineering and Technology (UET), Taxila
     date_start: 2022-08-01
-    date_end: 2026-06-31
+    date_end: 2026-06-30
     summary: |
       GPA: 3.6/4.0
       
