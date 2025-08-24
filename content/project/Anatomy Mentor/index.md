@@ -4,6 +4,7 @@ date: 2023-10-26
 links:
   - type: site
     url: https://lablab.ai/event/gemini-ultra-hackathon/the-game-changers/anatomy-mentor
+tags:
   - Streamlit
   - Gemini
 ---
