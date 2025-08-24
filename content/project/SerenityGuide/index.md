@@ -1,15 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: Serenify
+date: 2024-6-1
 links:
   - type: site
-    url: https://github.com/pandas-dev/pandas
+    url: https://github.com/Amna-Hassan04/Serenity-Guide
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Claude AI
+
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
-
+SereniFi Guide is a comprehensive mind-relaxing application designed to help users achieve mental tranquility and enhance well-being. Through guided meditations, breathing exercises, and soothing music, SereniFi offers a serene experience tailored to individual needs. Perfect for those seeking to unwind, focus, or find inner peace amidst the daily grind.
 <!--more-->
