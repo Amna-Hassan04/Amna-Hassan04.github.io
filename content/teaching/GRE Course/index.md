@@ -1,7 +1,7 @@
 ---
 title: Teaching an 8-Week GRE Prep Course
-summary: I delivered a structured 8-week GRE course covering Verbal, Quant, and Analytical Writing, with practice tests and strategy sessions.
-date: 2023-09-15
+summary: I delivered a structured 6-week GRE course covering Verbal, Quant, and Analytical Writing, with practice tests and strategy sessions.
+date: 2025-04-15
 type: docs
 math: false
 tags:
@@ -12,7 +12,7 @@ image:
   caption: 'Helping students achieve their target GRE scores'
 ---
 
-Over the course of **8 weeks**, I designed and delivered a comprehensive program to help students prepare for the **GRE (Graduate Record Examination)**.
+Over the course of **6 weeks**, I designed and delivered a comprehensive program to help students prepare for the **GRE (Graduate Record Examination)**.
 
 The course covered all three sections—**Quantitative Reasoning, Verbal Reasoning, and Analytical Writing**—with a balance of **concept building, strategy, and timed practice**.
 
@@ -27,7 +27,7 @@ This structured approach enabled students to build strong fundamentals, adopt ef
 - ✍️ Focused on **test-taking strategies and time management**.
 - 📊 Integrated **weekly practice tests** to measure progress.
 - 🎯 Designed to help students achieve their **target GRE scores**.
-- ⏱ Delivered in a **structured 8-week timeline**.
+- ⏱ Delivered in a **structured 6-week timeline**.
 
 By the end of the course, participants gained **improved reasoning skills**, better **time management under pressure**, and felt fully prepared for the **GRE exam**.
 
