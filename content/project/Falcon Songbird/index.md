@@ -1,6 +1,6 @@
 ---
 title: Falcon Songbird
-date: 2024-8-26
+date: 2024-08-26
 links:
   - type: site
     url: https://lablab.ai/event/falcon-hackathon/songbird/falcon-songbird

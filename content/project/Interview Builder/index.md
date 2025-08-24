@@ -1,6 +1,6 @@
 ---
 title: Interview Builder
-date: 2024-10-3
+date: 2024-10-03
 links:
   - type: site
     url: https://lablab.ai/event/langflow-hackathon/ai-innovators/interview-builder

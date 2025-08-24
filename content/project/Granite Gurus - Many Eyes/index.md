@@ -1,6 +1,6 @@
 ---
 title: Many Eyes
-date: 2024-9-26
+date: 2024-09-26
 links:
   - type: site
     url: https://lablab.ai/event/ibm-watsonx-challenge/granite-gurus/granite-gurus-many-eyes

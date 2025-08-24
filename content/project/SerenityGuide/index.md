@@ -1,6 +1,6 @@
 ---
 title: Serenify
-date: 2024-6-1
+date: 2024-06-01
 links:
   - type: site
     url: https://github.com/Amna-Hassan04/Serenity-Guide

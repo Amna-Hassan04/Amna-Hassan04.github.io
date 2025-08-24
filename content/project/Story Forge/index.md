@@ -1,6 +1,6 @@
 ---
 title: StoryForge
-date: 2023-10-26
+date: 2023-04-26
 links:
   - type: site
     url: https://lablab.ai/event/gpt-4-powered-app-creation-hackathon/storyforge/storyforge

@@ -1,6 +1,6 @@
 ---
 title: Anatomy Mentor
-date: 2024-3-20
+date: 2024-03-20
 links:
   - type: site
     url: https://lablab.ai/event/gemini-ultra-hackathon/the-game-changers/anatomy-mentor
