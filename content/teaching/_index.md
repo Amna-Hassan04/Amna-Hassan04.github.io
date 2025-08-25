@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Volunteer Teaching
 summary: My courses
 type: landing
 
