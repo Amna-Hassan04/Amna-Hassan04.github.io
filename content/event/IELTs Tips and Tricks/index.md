@@ -16,8 +16,8 @@ abstract: |
   In this episode, I shared my journey across global hackathons, the impact of communities like iCodeGuru, strategies for winning hackathons, and highlights from projects such as the Paul Graham Founder Mode AI app and Equalist.  
   We explored how structured mentorship can transform hackathons and celebrated the incredible people and communities who have shaped my journey.
 
-date: '2025-02-01T13:00:00Z'
-date_end: '2025-02-01T14:00:00Z'
+date: '2025-08-01T13:00:00Z'
+date_end: '2025-08-01T14:00:00Z'
 all_day: false
 
 publishDate: '2025-08-01T00:00:00Z'
