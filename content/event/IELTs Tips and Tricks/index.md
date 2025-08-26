@@ -1,7 +1,7 @@
 ---
-title: Featured Guest — Cillers World Class Hackathons Podcast
-event: Cillers World Class Hackathons Podcast with Per Lange
-event_url: https://open.spotify.com/show/2Rwp2s4dZ5T9gWPU7iM6Gg
+title: Webinar — IELTS Tips & Strategies for Band 8+
+event: IELTS Preparation Webinar
+event_url: https://web.facebook.com/share/v/169EfzWTLu/
 
 location: Online
 address:
@@ -11,59 +11,83 @@ address:
   postcode: ''
   country: ''
 
-summary: Thrilled to share my feature on the Cillers World Class Hackathons Podcast with Per Lange—now live on Spotify!
+summary: Thrilled to share my recent webinar on IELTS tips and strategies—practical approaches that helped me score Band 8+, now available online!
 abstract: |
-  In this episode, I shared my journey across global hackathons, the impact of communities like iCodeGuru, strategies for winning hackathons, and highlights from projects such as the Paul Graham Founder Mode AI app and Equalist.  
-  We explored how structured mentorship can transform hackathons and celebrated the incredible people and communities who have shaped my journey.
+  In this session, I broke down the IELTS test structure, shared proven strategies for each module, and highlighted why smart practice matters more than endless mock tests.  
+  From eliminating wrong answers in Listening, to building essay structures for Writing, to treating the Speaking test like a friendly conversation—these are the methods that worked for me.  
+  I also shared my favorite learning resources and how I used only 4 mock tests to prepare effectively.
 
-date: '2025-08-01T13:00:00Z'
-date_end: '2025-08-01T14:00:00Z'
+date: '2025-08-20T13:00:00Z'
+date_end: '2025-08-20T14:00:00Z'
 all_day: false
 
-publishDate: '2025-08-01T00:00:00Z'
+publishDate: '2025-08-20T00:00:00Z'
 
 authors:
   - admin
 
 tags:
-  - Hackathons
-  - Generative AI
-  - Podcast
+  - IELTS
+  - Test Preparation
+  - Learning Strategies
 
 featured: true
 
 image:
-  caption: '🎙️ My guest feature on the Cillers World Class Hackathons Podcast'
+  caption: '🎤 Webinar on IELTS Tips & Strategies for Band 8+'
   focal_point: Center
 
 links:
-  - type: podcast
-    url: https://lnkd.in/dgMAKdRp
-  - type: spotify
-    url: https://lnkd.in/dgMAKdRp
+  - type: recording
+    url: https://web.facebook.com/share/v/169EfzWTLu/
 
 slides: ""
 
 projects: []
 ---
 
-🎙️✨ Thrilled to announce an incredible milestone—my feature on the **Cillers World Class Hackathons Podcast** with **Per Lange** is now live on Spotify! 🌟 🎧
+🎤✨ Thrilled to share highlights from my recent **IELTS Tips & Strategies Webinar**—designed to help aspirants aim for **Band 8+** with smarter prep. 🌟
 
-🎧 **Check out the episode here:**  
-📎 [Listen on Spotify](https://lnkd.in/dgMAKdRp)
-
----
-
-## Episode Highlights
-⭐️ My **hackathon journey**, including events like the *Google Cloud AI Hackathon*, *Open Source Hackathon*, and *Harvard's 2024 CS50 Puzzle Day*.  
-⭐️ Reflections on **iCodeGuru** and mentors like **Sir Zafar Shahid**, **PhD Shahid**, and **Sir Rizwan Ghaffar**, who expanded my vision.  
-⭐️ **Winning strategies** for hackathons: ideation, prototyping, storytelling.  
-⭐️ Insights from leaders like **Michael Lively** (timestamp 33:03).  
-⭐️ My experience as an **AI Hackathons Champion at lablab.ai**, joining 10+ hackathons—including building the *Paul Graham Founder Mode AI app* with **Simon Olson** (timestamp 47:45).  
-⭐️ The importance of **structured mentorship** in hackathons.  
-⭐️ Highlight of *Equalist*, a Chrome extension my team (Anushka Pote, Iqra Zafar, Akansha) built at the *Google AI for Impact Hackathon* organized by Hack2Skill.  
-⭐️ Gratitude for **Sir Zubair Zafar** at iCodeGuru (timestamp 51:37).
+🎥 **Watch the full session here:**  
+📎 [Webinar Recording](https://web.facebook.com/share/v/169EfzWTLu/)
 
 ---
 
-💬 This episode is full of stories, strategies, and practical insights—I’d love to hear your thoughts after you listen!  
+## Key Takeaways
+
+📌 **Test Structure**
+- Listening: 30 min
+- Reading: 60 min
+- Writing: 60 min
+- Speaking: 11–14 min
+- Overall Band = average of all four modules
+
+📚 **Learning Strategies**
+- Don’t just practice—**practice the right way**.
+- Study **band marking criteria** before any module.
+- I only took **4 mock tests**—enough when done strategically.
+
+🎧 **Listening (Band 9)**
+- Watch TV series (*Friends, Wednesday, Lockwood & Co*) to train your ear.
+- For MCQs: eliminate wrong answers instead of hunting for the right one.
+- On maps: follow the speaker’s path with your finger/pencil.
+
+📖 **Reading (Band 8)**
+- Understand question types before testing yourself.
+- Time yourself and aim to finish early.
+
+✍️ **Writing (Band 7)**
+- Learn structures for different essay types.
+- Focus on clarity and organization, not just fancy vocabulary.
+
+🗣 **Speaking (Band 8)**
+- Start practicing with ChatGPT, then switch to human partners.
+- Treat the examiner like a professional acquaintance.
+- Smile—it makes you more confident and approachable.
+- Fluency, vocabulary, and cohesion weigh more than perfect grammar.
+
+---
+
+💡 Smart prep beats repetitive testing—develop skills for each question type and then refine with quality practice.
+
+❓What’s your biggest hurdle in IELTS prep? I’d love to help!  
