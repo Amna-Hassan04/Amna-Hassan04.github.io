@@ -57,6 +57,5 @@ Here’s to many more puzzles, challenges, and victories ahead! 🧠✨
 ## 🔗 Learn More
 
 📌 [Harvard CS50 Puzzle Day Official Site](https://cs50.harvard.edu/x/)  
-📌 [CS50 Puzzle Day on GitHub](https://github.com/cs50/puzzles)
 
 ---
