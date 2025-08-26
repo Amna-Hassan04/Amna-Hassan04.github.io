@@ -48,14 +48,12 @@ Here’s the highlight clip:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w_8XdiCL5VE?si=nV8Ai5AUjxd41S4m&amp;start=834" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
+## 📜 Certificate of Recognition
+![Amna Hassan_Cert_Project Admin_GSSoC2024Extd.png](https://media.licdn.com/dms/image/v2/D4D22AQGj4BJCvCBAzg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1731393508765?e=1759363200&v=beta&t=eTtcOx9T7XlH4-mewCCX9WVB4avna97TNqllNlkwXM4)
 
-## 🌟 My LinkedIn Reflection
+## 🏅 Top Project Admin Recognition
 
-Here’s my post celebrating this journey and the recognition SereniFi received:
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7263215894636445696" height="660" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
----
+![Top Project Admin Poster](https://media.licdn.com/dms/image/v2/D5610AQH6z7S63r7C8w/image-shrink_800/image-shrink_800/0/1731685595135?e=1756810800&v=beta&t=yEvxTTNsf0HFNzC1M8rpTfRQjYrwIIFZYp1HQuJT0tw)
 
 ## 💡 Closing Thoughts
 
@@ -63,6 +61,5 @@ Being a Project Admin in GSSoC Extended 2024 has been both a challenge and a joy
 
 Here’s to building more projects that support **mental health** and inspire the next generation of open-source contributors! 🌿✨
 
-![Amna Hassan_Cert_Project Admin_GSSoC2024Extd.png](..%2F..%2F..%2F..%2F..%2F..%2FUsers%2Fhitma%2FDownloads%2FAmna%20Hassan_Cert_Project%20Admin_GSSoC2024Extd.png)
 ---
 
