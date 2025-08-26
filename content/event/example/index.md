@@ -1,73 +1,69 @@
 ---
-title: Example Talk
+title: Featured Guest — Cillers World Class Hackathons Podcast
+event: Cillers World Class Hackathons Podcast with Per Lange
+event_url: https://open.spotify.com/show/2Rwp2s4dZ5T9gWPU7iM6Gg
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
-
-location: Hugo Blox Builder HQ
+location: Online
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: ''
+  city: ''
+  region: ''
+  postcode: ''
+  country: ''
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Thrilled to share my feature on the Cillers World Class Hackathons Podcast with Per Lange—now live on Spotify!
+abstract: |
+  In this episode, I shared my journey across global hackathons, the impact of communities like iCodeGuru, strategies for winning hackathons, and highlights from projects such as the Paul Graham Founder Mode AI app and Equalist.  
+  We explored how structured mentorship can transform hackathons and celebrated the incredible people and communities who have shaped my journey.
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2025-08-01T13:00:00Z'
+date_end: '2025-08-01T14:00:00Z'
 all_day: false
 
-# Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-08-01T00:00:00Z'
 
 authors:
   - admin
 
-tags: []
+tags:
+  - Hackathons
+  - Generative AI
+  - Podcast
 
-# Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption: '🎙️ My guest feature on the Cillers World Class Hackathons Podcast'
+  focal_point: Center
 
 links:
-  - type: code
-    url: https://github.com
-  - type: slides
-    url: https://slideshare.net
-  - type: video
-    url: https://youtube.com
+  - type: podcast
+    url: https://lnkd.in/dgMAKdRp
+  - type: spotify
+    url: https://lnkd.in/dgMAKdRp
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-  - example
+projects: []
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+🎙️✨ Thrilled to announce an incredible milestone—my feature on the **Cillers World Class Hackathons Podcast** with **Per Lange** is now live on Spotify! 🌟 🎧
 
-Slides can be added in a few ways:
+🎧 **Check out the episode here:**  
+📎 [Listen on Spotify](https://lnkd.in/dgMAKdRp)
 
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using the `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to this page bundle and link it using `links: [{ type: slides, url: path/to/file } ]` in front matter
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+---
 
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+## Episode Highlights
+⭐️ My **hackathon journey**, including events like the *Google Cloud AI Hackathon*, *Open Source Hackathon*, and *Harvard's 2024 CS50 Puzzle Day*.  
+⭐️ Reflections on **iCodeGuru** and mentors like **Sir Zafar Shahid**, **PhD Shahid**, and **Sir Rizwan Ghaffar**, who expanded my vision.  
+⭐️ **Winning strategies** for hackathons: ideation, prototyping, storytelling.  
+⭐️ Insights from leaders like **Michael Lively** (timestamp 33:03).  
+⭐️ My experience as an **AI Hackathons Champion at lablab.ai**, joining 10+ hackathons—including building the *Paul Graham Founder Mode AI app* with **Simon Olson** (timestamp 47:45).  
+⭐️ The importance of **structured mentorship** in hackathons.  
+⭐️ Highlight of *Equalist*, a Chrome extension my team (Anushka Pote, Iqra Zafar, Akansha) built at the *Google AI for Impact Hackathon* organized by Hack2Skill.  
+⭐️ Gratitude for **Sir Zubair Zafar** at iCodeGuru (timestamp 51:37).
+
+---
+
+💬 This episode is full of stories, strategies, and practical insights—I’d love to hear your thoughts after you listen!  
