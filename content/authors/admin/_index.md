@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Final year Undergrad Student
+role: Final-Year Computer Science Student | Aspiring PhD Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -65,7 +65,8 @@ education:
 
 ## About Me
 
-Aspiring Software Engineer with practical experience in AI development and open-source project leadership and research. Successfully
-maintained the SereniFy project in GirlScript Summer of Code, implementing AI-powered features and mentoring contributors. Trained
-thousands in AI app development and recognized as a leader in technical education. Eager to leverage AI expertise and leadership skills
-to contribute to innovative software solutions.
+I am a final-year Computer Science student at the University of Engineering and Technology, Taxila (GPA 3.6/4.0). My research interests lie at the intersection of Artificial Intelligence, Natural Language Processing, Human-Computer Interaction, and AI for Healthcare & Accessibility.
+
+I have experience in both applied research (UC Irvine research mentorship, fracture detection using CNNs, automated Unity game template generation) and community leadership (trainer for 25,000+ students in AI development, open-source project administrator).
+
+I am currently preparing to pursue a fully funded PhD in Fall 2026 and seek opportunities to contribute to impactful research in AI and assistive technologies.
