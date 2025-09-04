@@ -14,7 +14,7 @@ pronouns: she/her
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -65,8 +65,8 @@ education:
 
 ## About Me
 
-I am a final-year Computer Science student at the University of Engineering and Technology, Taxila (GPA 3.6/4.0). My research interests lie at the intersection of Artificial Intelligence, Natural Language Processing, Human-Computer Interaction, and AI for Healthcare & Accessibility.
+I am a final-year Computer Science student at the University of Engineering and Technology, Taxila (GPA 3.6/4.0). My research interests span Artificial Intelligence, Systems, and Security, with applications in Healthcare, Accessibility, and Networking.
 
-I have experience in both applied research (UC Irvine research mentorship, fracture detection using CNNs, automated Unity game template generation) and community leadership (trainer for 25,000+ students in AI development, open-source project administrator).
+I bring a balance of applied research, systems-level project development, and community leadership. My experiences include research at UC Irvine on AI in game development, deep learning for medical imaging, large-scale open-source software leadership, and practical projects in systems, compilers, and security-driven design.
 
-I am currently preparing to pursue a fully funded PhD in Fall 2026 and seek opportunities to contribute to impactful research in AI and assistive technologies.
+I am preparing to pursue a fully funded PhD in Fall 2026 and am open to working across AI, systems, networking, and security domains, with the goal of advancing technologies that are both innovative and impactful.
