@@ -36,7 +36,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research Journey'
       subtitle: ''
       text: |-
         My research journey began with a strong curiosity to explore beyond the classroom. In my 5th semester, I was awarded a research mentorship scholarship with an Assistant Professor at UC Irvine, where I was introduced to the essentials of academic writing, research design, and dataset creation.
