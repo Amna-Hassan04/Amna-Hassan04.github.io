@@ -39,11 +39,14 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research journey began with a strong curiosity to explore beyond the classroom. In my 5th semester, I was awarded a research mentorship scholarship with an Assistant Professor at UC Irvine, where I was introduced to the essentials of academic writing, research design, and dataset creation.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        By the end of this mentorship, I authored my first paper:
         
-        Please reach out to collaborate 😃
+        Automated Unity Game Template Generation from GDDs via NLP and Multi-Modal LLMs – a framework that transforms game design documents into functional Unity templates. This work was featured on my mentors [website](https://researchcollegeprep.com/)
+        and in his [newsletter/blog](https://researchcollegeprep.com/%f0%9f%9a%80-student-spotlight-advancing-ai-in-game-development/).
+        
+        Since then, I’ve been deeply enthusiastic about research—whether it’s in AI, systems, or security—and I’m always eager to learn, collaborate, and contribute to new ideas.
     design:
       columns: '1'
   - block: collection
