@@ -128,6 +128,6 @@ awards:
 
 I am a final-year Computer Science student at the University of Engineering and Technology, Taxila (GPA 3.6/4.0). My research interests span Artificial Intelligence, Systems, and Security, with applications in Healthcare, Accessibility, and Networking.
 
-I bring a balance of applied research, systems-level project development, and community leadership. My experiences include research at UC Irvine on AI in game development, deep learning for medical imaging, large-scale open-source software leadership, and practical projects in systems, compilers, and security-driven design.
+I bring a strong balance of applied research, systems-level project development, and community leadership. I have participated in 30+ international hackathons—winning several at venues such as Google, Anthropic, and Harvard—where I have consistently demonstrated the ability to adapt quickly, collaborate with diverse teams, and develop innovative solutions under time constraints. These experiences have honed my problem-solving skills across multiple domains, from deep learning for medical imaging and accessibility-focused AI agents to systems, compilers, and security-driven design. In addition, I have led to open-source projects, further strengthening my technical and collaborative expertise.
 
-I am preparing to pursue a fully funded PhD in Fall 2026 and am open to working across AI, systems, networking, and security domains, with the goal of advancing technologies that are both innovative and impactful.
+Looking ahead, I am preparing to pursue a fully funded PhD starting Fall 2026. I am open to working across AI, systems, networking, and security, with the goal of advancing technologies that are not only cutting-edge but also socially impactful.
