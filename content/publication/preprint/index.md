@@ -1,27 +1,59 @@
 ---
 title: "Automated Unity Game Template Generation from GDDs via NLP and Multi-Modal LLMs"
 authors:
-  - admin
-date: 2025-09-07
+- admin
+date: "2025-09-07T00:00:00Z"
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2025-09-07T00:00:00Z"
+
+# Publication type.
+publication_types: ["article"]
+
+# Publication name and optional abbreviated publication name.
 publication: "arXiv Preprint"
-publication_url: "https://doi.org/10.48550/arXiv.2509.08847"
-categories:
-  - Artificial Intelligence
-  - Computation and Language
-  - Machine Learning
-  - Software Engineering
-type: preprint
-summary: |
-  This paper presents a novel framework for automated game template generation by transforming Game Design Documents (GDDs) into functional Unity game prototypes using Natural Language Processing (NLP) and multi-modal Large Language Models (LLMs). 
-  We introduce an end-to-end system that parses GDDs, extracts structured game specifications, and synthesizes Unity-compatible C# code that implements the core mechanics, systems, and architecture defined in the design documentation. 
-  Our approach combines a fine-tuned LLaMA-3 model specialized for Unity code generation with a custom Unity integration package that streamlines the implementation process. 
-  Evaluation results demonstrate significant improvements over baseline models, with our fine-tuned model achieving superior performance (4.8/5.0 average score) compared to state-of-the-art LLMs across compilation success, GDD adherence, best practices adoption, and code modularity metrics. 
-  The generated templates demonstrate high adherence to GDD specifications across multiple game genres. Our system effectively addresses critical gaps in AI-assisted game development, positioning LLMs as valuable tools in streamlining the transition from game design to implementation.
+publication_short: "arXiv"
+
+abstract: |
+  This paper presents a novel framework for automated game template generation by transforming Game Design Documents (GDDs) into functional Unity game prototypes using Natural Language Processing (NLP) and multi-modal Large Language Models (LLMs).
+  We introduce an end-to-end system that parses GDDs, extracts structured specifications, and synthesizes Unity-compatible C# code that implements the core mechanics, systems, and architecture defined in the documentation.
+  Evaluation results demonstrate high adherence to GDD specifications across multiple game genres and significant improvements over baseline models.
+
+summary: Automated generation of Unity game templates directly from Game Design Documents (GDDs) using NLP and multi-modal LLMs.
+
 tags:
-  - LLMs
-  - Unity
-  - NLP
-  - Game Development
-pdf_url: "https://arxiv.org/pdf/2509.08847.pdf"
-html_url: "https://arxiv.org/abs/2509.08847"
+- Large Language Models
+- Game Development
+- Unity
+- NLP
+
+featured: true
+
+hugoblox:
+  ids:
+    arxiv: 2509.08847
+
+links:
+- type: preprint
+  provider: arxiv
+  id: 2509.08847
+- type: pdf
+  url: https://arxiv.org/pdf/2509.08847.pdf
+- type: dataset
+  url: "https://huggingface.co/datasets/AmnaHassan/Unity-Engine-CSharp-Code-and-Game-Design-Document-Code-Pairs-Mix-and-Jam"
+- type: code
+  url: "#"
+- type: slides
+  url: "#"
+
+# Featured image
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  focal_point: ""
+  preview_only: false
+
+projects: []
+slides: ""
 ---
+
+This work proposes a framework to bridge the gap between narrative design and functional prototyping in Unity through AI-driven automation.
