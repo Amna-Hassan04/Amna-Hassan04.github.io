@@ -1,5 +1,5 @@
 ---
-title: Workshop — Introduction to Deep Learning in Urdu Language
+title: Workshop — Introduction to Deep Learning in Python
 event: iCodeGuru Hands-on Workshop
 event_url: https://icodeguru.org/
 
@@ -13,14 +13,14 @@ address:
 
 summary: Delivered a beginner-friendly workshop on Deep Learning, covering neural network fundamentals and guiding participants to build their first AI model with Keras and TensorFlow.
 abstract: |
-  On September 25th, 2025, I had the opportunity to deliver a **hands-on workshop** on *Introduction to Deep Learning*, organized by iCodeGuru.  
+  On September 25th, 2025, I had the opportunity to deliver a **hands-on workshop** on *Introduction to Deep Learning*, organized by iCodeGuru in Urdu Language of Pakistan.  
   The session introduced participants to the **core concepts of neural networks** such as perceptrons, activation functions, forward & backpropagation, loss functions, and optimizers.  
   To keep it practical, we built a **digit recognition model** using the MNIST dataset with **Keras + TensorFlow**, giving participants real coding experience.
 
 date: '2025-09-10T23:00:00Z'
 all_day: false
 
-publishDate: '2025-09-10T25:00:00Z'
+publishDate: '2025-09-10T23:00:00Z'
 
 authors:
   - admin
@@ -36,7 +36,7 @@ tags:
 featured: true
 
 image:
-  caption: '🧠 Workshop on Deep Learning at iCodeGuru'
+  caption: ' Workshop on Deep Learning at iCodeGuru'
   focal_point: Center
 
 links:
