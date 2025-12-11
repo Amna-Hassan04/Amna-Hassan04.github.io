@@ -121,7 +121,27 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
     
-
+  # Games & Creative Work Section
+  - block: collection
+    id: games
+    content:
+      title: 'Games & Creative Work'
+      subtitle: 'Interactive experiences from game jams, personal projects, and creative exploration'
+      text: |
+        I develop games as a creative outlet and learning tool, participating in international game jams and building narrative-driven experiences. Check out my [YouTube channel](https://www.youtube.com/channel/UC8JYSVdLo9r6wCdgj0ItKNg) for devlogs and tutorials!
+      filters:
+        folders:
+          - project
+        tags:
+          - Game Development
+          - Game Jam
+          - Unity
+        featured_only: true
+      count: 3
+    design:
+      view: card
+      columns: 2
+      
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
