@@ -131,7 +131,7 @@ sections:
         I develop games as a creative outlet and learning tool, participating in international game jams and building narrative-driven experiences. Check out my [YouTube channel](https://www.youtube.com/channel/UC8JYSVdLo9r6wCdgj0ItKNg) for devlogs and tutorials!
       filters:
         folders:
-          - project
+          - games
         tags:
           - Game Development
           - Game Jam
@@ -139,8 +139,9 @@ sections:
         featured_only: true
       count: 3
     design:
-      view: card
-      columns: 2
+      # Choose a view for the listings:
+      view: article-grid
+      columns: '2'
       
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
