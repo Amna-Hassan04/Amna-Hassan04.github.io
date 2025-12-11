@@ -68,8 +68,8 @@ I bring a strong balance of applied research, systems-level project development,
 
 Looking ahead, I am preparing to pursue a fully funded PhD starting Fall 2026. I am open to working across AI, systems, networking, and security, with the goal of advancing technologies that are not only cutting-edge but also socially impactful.
 
-## Awards & Honors
+### Awards & Honors
 
-- **Google Generation Scholar 2025–26**
-- **Winner – Harvard University CS50 Puzzle Day 2025**
-- **Top 98 – Google AI for Impact Hackathon (APAC)**
+- <img src="assets/media/logo/Google.png" width="22" style="vertical-align:middle; margin-right:5px;"> **Google Generation Scholar 2025–26**
+- <img src="assets/media/logo/harvard.png" width="22" style="vertical-align:middle; margin-right:5px;"> **Winner – Harvard University CS50 Puzzle Day 2025**
+- <img src="assets/media/logo/google-ai.png" width="22" style="vertical-align:middle; margin-right:5px;"> **Top 98 – Google AI for Impact Hackathon (APAC)**
