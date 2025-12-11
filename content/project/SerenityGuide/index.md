@@ -5,7 +5,9 @@ links:
   - type: site
     url: https://github.com/Amna-Hassan04/Serenity-Guide
 tags:
+  - Human Computer Interaction
   - Claude AI
+  - AI for Health
 featured: true
 ---
 

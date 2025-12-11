@@ -6,6 +6,7 @@ links:
     url: https://lablab.ai/event/24h-claude-hackathon/glucoguide/glucoguide
 tags:
   - ClaudeAI
+  - AI for Health
 featured: true
 ---
 

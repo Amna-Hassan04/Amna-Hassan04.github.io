@@ -5,9 +5,9 @@ links:
   - type: repo
     url: https://github.com/Amna-Hassan04/Taxila-LaneSense
 tags:
-  - ComputerVision
+  - Computer Vision
   - Streamlit
-  - TrafficAnalysis
+  - Traffic Analysis
 featured: true
 ---
 
