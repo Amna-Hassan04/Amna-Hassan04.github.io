@@ -7,6 +7,7 @@ links:
 tags:
   - 11labs
   - RAG
+featured: true
 
 ---
 
