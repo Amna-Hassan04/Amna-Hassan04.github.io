@@ -58,70 +58,17 @@ education:
 
 awards:
   - title: "Winner – Harvard University CS50 Puzzle Day 2025"
-    awarder: "Harvard University CS50"
+    awarder: "Harvard CS50"
     date: 2025-04-01
-    summary: |
-      Led a team of 2 and solved all 9 puzzles successfully.
-
-  - title: "Research Mentorship Scholarship"
-    awarder: "UC Irvine"
-    date: 2025-02-01
-    summary: |
-      Awarded a 4-month scholarship to be mentored by an Assistant Professor at UC Irvine to write my first research paper.
-
-  - title: "Featured Guest – Cillers Podcast (World Class Hackathons)"
-    awarder: "Cillers Podcast"
-    date: 2025-01-01
-    summary: |
-      Invited as a guest to share insights on hackathons, new technologies, and software development practices.
 
   - title: "Top 98 – Google AI for Impact Hackathon (APAC)"
-    awarder: "Hack2skill / Google"
+    awarder: "Google / Hack2skill"
     date: 2024-12-01
-    summary: |
-      Selected among 2000+ projects out of 22,000 participants. Developed 'Equalist', a Chrome extension improving web accessibility for differently-abled users.
 
-  - title: "Top 18th Project Admin – GirlScript Summer of Code Ext 2024"
-    awarder: "GirlScript Summer of Code"
-    date: 2024-10-01
-    summary: |
-      Ranked 18th out of 150 Project Admins. Led a team of 32 open source contributors on the project 'SereniFy'.
+  - title: "Research Mentorship Scholar – UC Irvine"
+    awarder: "UC Irvine"
+    date: 2025-02-01
 
-  - title: "3rd Place – Codess.Cafe Hackathon"
-    awarder: "Codess.Cafe"
-    date: 2024-09-01
-    summary: |
-      Built 'SereniFy', a project for mental tranquility featuring journaling, breathing exercises, relaxing sounds, and AI-powered recommendations.
-
-  - title: "3rd Place – Claude Hackathon (lablab.ai)"
-    awarder: "lablab.ai"
-    date: 2024-07-01
-    summary: |
-      Developed 'GlucoGuide', an AI-powered app to help diabetes patients with meal and exercise recommendations.
-
-  - title: "Winner – Harvard University CS50 Puzzle Day 2024"
-    awarder: "Harvard University CS50"
-    date: 2024-04-01
-    summary: |
-      Solved 9 challenging logic puzzles, demonstrating problem-solving and teamwork skills.
-
-  - title: "Featured for Exceptional Achievements"
-    awarder: "iCodeGuru"
-    date: 2024-01-01
-    summary: |
-      Recognized multiple times on iCodeGuru’s social media platforms (community of 30,000+ students).
-
-  - title: "PM Laptop Scheme Awardee"
-    awarder: "Higher Education Commission (HEC), Pakistan"
-    date: 2023-12-01
-    summary: |
-      Awarded a laptop based on academic excellence (CGPA 3.74).
-
-  - title: "Merit Scholarship – 11th & 12th Grade"
-    awarder: "Punjab College"
-    date: 2022-02-01
-    summary: |
-      Received a 100% merit scholarship for 2 years during intermediate studies.
 ---
 
 ## About Me
