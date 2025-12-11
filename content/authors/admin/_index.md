@@ -67,9 +67,3 @@ I am a final-year Computer Science student at the University of Engineering and 
 I bring a strong balance of applied research, systems-level project development, and community leadership. I have participated in 30+ international hackathons—winning several at venues such as Google, Anthropic, and Harvard—where I have consistently demonstrated the ability to adapt quickly, collaborate with diverse teams, and develop innovative solutions under time constraints. These experiences have honed my problem-solving skills across multiple domains, from deep learning for medical imaging and accessibility-focused AI agents to systems, compilers, and security-driven design. In addition, I have led to open-source projects, further strengthening my technical and collaborative expertise.
 
 Looking ahead, I am preparing to pursue a fully funded PhD starting Fall 2026. I am open to working across AI, systems, networking, and security, with the goal of advancing technologies that are not only cutting-edge but also socially impactful.
-
-### Awards & Honors
-
-- <img src="assets/media/logo/Google.png" width="22" style="vertical-align:middle; margin-right:5px;"> **Google Generation Scholar 2025–26**
-- <img src="assets/media/logo/harvard.png" width="22" style="vertical-align:middle; margin-right:5px;"> **Winner – Harvard University CS50 Puzzle Day 2025**
-- <img src="assets/media/logo/google-ai.png" width="22" style="vertical-align:middle; margin-right:5px;"> **Top 98 – Google AI for Impact Hackathon (APAC)**
