@@ -35,16 +35,7 @@ sections:
           position: center
           parallax: True
           
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 2
+    
   - block: collection
     id: news
     content:
@@ -117,9 +108,6 @@ sections:
       view: article-grid
       columns: 2
       
-  
-
-
   # Games & Creative Work Section
   - block: collection
     id: games
@@ -142,6 +130,17 @@ sections:
       view: article-grid
       columns: '2'
       
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 2
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
