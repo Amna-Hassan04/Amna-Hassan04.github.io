@@ -41,17 +41,6 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/amna-hassan-143b76202/
 
-
-
-
-education:
-  - area: BS Computer Science
-    institution: University of Engineering and Technology (UET), Taxila
-    date_start: 2022-08-01
-    date_end: 2026-06-30
-    summary: |
-      GPA: 3.6/4.0
-      
 awards:
   - title: "Winner – Harvard University CS50 Puzzle Day 2025"
     awarder: "Harvard CS50"
@@ -64,6 +53,17 @@ awards:
   - title: "Research Mentorship Scholar – UC Irvine"
     awarder: "UC Irvine"
     date: 2025-02-01
+
+
+
+education:
+  - area: BS Computer Science
+    institution: University of Engineering and Technology (UET), Taxila
+    date_start: 2022-08-01
+    date_end: 2026-06-30
+    summary: |
+      GPA: 3.6/4.0
+      
 
 ---
 
