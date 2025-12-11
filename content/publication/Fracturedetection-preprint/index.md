@@ -40,12 +40,9 @@ links:
     id: 2509.06228
   - type: pdf
     url: https://arxiv.org/pdf/2509.06228.pdf
-  - type: dataset
-    url: "#"
   - type: code
     url: "https://github.com/Amna-Hassan04/Fracture-Detection-Using-X-Rays-with-CNN"
-  - type: slides
-    url: "#"
+
 
 image:
   focal_point: ""
