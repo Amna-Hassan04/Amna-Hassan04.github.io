@@ -1,13 +1,17 @@
 ---
-title: GlucoGuide
-date: 2023-03-26
+title: Taxila LaneSense
+date: 2025-12-11
 links:
-  - type: site
-    url: https://lablab.ai/event/24h-claude-hackathon/glucoguide/glucoguide
+  - type: repo
+    url: https://github.com/Amna-Hassan04/Taxila-LaneSense
 tags:
-  - ClaudeAI
+  - ComputerVision
+  - Streamlit
+  - TrafficAnalysis
 featured: true
 ---
 
-GlucoGuide is your personal diabetes assistant, offering personalized meal and exercise recommendations based on your sugar levels and lifestyle. It helps you maintain balance, portion control, and overall well-being for healthier living.
+**Taxila LaneSense** is a lightweight computer vision tool that detects lane lines, measures vehicle offset from the lane center, and visualizes lane width trends through an interactive Streamlit dashboard.  
+Built using OpenCV, it helps analyze driving behavior at accident-prone locations such as the Taxila Underpass by providing quick and meaningful visual insights.
+
 <!--more-->
