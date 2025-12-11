@@ -33,7 +33,7 @@ sections:
             brightness: 1.0
           size: cover
           position: center
-          parallax: false
+          parallax: True
   
       
   # Featured Projects Section
