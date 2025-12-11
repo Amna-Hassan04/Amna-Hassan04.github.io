@@ -94,7 +94,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: News & Awards
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -115,12 +115,10 @@ sections:
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
-    
+      view: article-grid
+      columns: '2'
+
+
   # Games & Creative Work Section
   - block: collection
     id: games
