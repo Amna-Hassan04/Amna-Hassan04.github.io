@@ -13,17 +13,11 @@ featured: true
 
 # External links
 links:
-  - icon: gamepad
-    icon_pack: fas
-    name: Play on itch.io
+  - name: Play on itch.io
     url: https://rawal-sky.itch.io/the-last-one-game
-  - icon: play
-    icon_pack: fas
-    name: Play in Browser
+  - name: Play in Browser
     url: https://rawal-sky.itch.io/the-last-one-game
-  - icon: youtube
-    icon_pack: fab
-    name: DevLog
+  - name: DevLog
     url: https://www.youtube.com/channel/UC8JYSVdLo9r6wCdgj0ItKNg
 
 # Featured image

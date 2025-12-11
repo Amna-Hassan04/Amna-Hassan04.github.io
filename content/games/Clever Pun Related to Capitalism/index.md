@@ -13,18 +13,10 @@ featured: true
 
 # External links
 links:
-  - icon: gamepad
-    icon_pack: fas
-    name: Play on itch.io
+  - name: Play on itch.io
     url: https://ichalma.itch.io/clever-pun-related-to-capitalism
-  - icon: trophy
-    icon_pack: fas
-    name: Game Jam Entry
+  - name: Game Jam Entry
     url: https://itch.io/jam/gmtk-2024/rate/2914902
-  - icon: youtube
-    icon_pack: fab
-    name: DevLog Channel
-    url: https://www.youtube.com/channel/UC8JYSVdLo9r6wCdgj0ItKNg
 
 # Featured image
 image:
@@ -100,10 +92,5 @@ This jam reinforced my ability to:
 - **Game Jam Page**: [GMTK 2024 Entry](https://itch.io/jam/gmtk-2024/rate/2914902)
 - **Watch DevLogs**: [YouTube Channel](https://www.youtube.com/channel/UC8JYSVdLo9r6wCdgj0ItKNg)
 
-## Media
-
-[Add gameplay screenshots and GIFs here]
-
----
 
 *"Corporate has demanded you play this game!"*
