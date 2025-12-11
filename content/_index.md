@@ -51,7 +51,7 @@ sections:
       columns: '1'
       
   # Featured Projects Section
-  - block: portfolio
+  - block: collection
     id: projects
     content:
       title: Featured Projects
