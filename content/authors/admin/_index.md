@@ -42,10 +42,7 @@ profiles:
     url: https://www.linkedin.com/in/amna-hassan-143b76202/
 
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+
 
 education:
   - area: BS Computer Science
@@ -55,7 +52,6 @@ education:
     summary: |
       GPA: 3.6/4.0
       
-
 awards:
   - title: "Winner – Harvard University CS50 Puzzle Day 2025"
     awarder: "Harvard CS50"
