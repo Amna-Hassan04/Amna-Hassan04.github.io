@@ -43,18 +43,11 @@ profiles:
 
 awards:
   - title: "Winner – Harvard University CS50 Puzzle Day 2025"
-    awarder: "Harvard CS50"
-    date: 2025-04-01
-
+    
   - title: "Top 98 – Google AI for Impact Hackathon (APAC)"
-    awarder: "Google / Hack2skill"
-    date: 2024-12-01
-
+    
   - title: "Research Mentorship Scholar – UC Irvine"
-    awarder: "UC Irvine"
-    date: 2025-02-01
-
-
+    
 
 education:
   - area: BS Computer Science
