@@ -49,6 +49,25 @@ sections:
         Since then, I’ve been deeply enthusiastic about research—whether it’s in AI, systems, or security—and I’m always eager to learn, collaborate, and contribute to new ideas.
     design:
       columns: '1'
+      
+  # Featured Projects Section
+  - block: portfolio
+    id: projects
+    content:
+      title: Featured Projects
+      subtitle: ''
+      text: ''
+      filters:
+        folders:
+          - project
+        featured_only: true
+      # Choose how many columns in the layout
+      columns: '2'
+    design:
+      # Choose a view for the listings:
+      view: showcase
+      columns: '2'
+      
   - block: collection
     id: papers
     content:

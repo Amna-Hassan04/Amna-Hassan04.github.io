@@ -6,6 +6,7 @@ links:
     url: https://lablab.ai/event/falcon-hackathon/songbird/falcon-songbird
 tags:
   - Productivity
+featured: true
 ---
 
 Automated resume builder and career assistant offering tailored documents, skill gap training, and ATS-optimized scoring.
