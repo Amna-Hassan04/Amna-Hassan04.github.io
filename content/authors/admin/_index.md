@@ -47,7 +47,21 @@ awards:
   - title: "Top 98 – Google AI for Impact Hackathon (APAC)"
     
   - title: "Research Mentorship Scholar – UC Irvine"
-    
+
+sections:
+  - block: grid
+    content:
+      title: "Awards & Honors"
+      items:
+        - image: "/media/logos/google.png"
+          title: "Google Generation Scholar 2025–26"
+          description: ""
+        - image: "/media/logos/harvard.png"
+          title: "Winner – Harvard University CS50 Puzzle Day 2025"
+          description: ""
+        - image: "/media/logos/google-ai.png"
+          title: "Top 98 – Google AI for Impact Hackathon (APAC)"
+          description: ""   
 
 education:
   - area: BS Computer Science
