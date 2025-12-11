@@ -62,10 +62,10 @@ sections:
           - project
         featured_only: true
       # Choose how many columns in the layout
-      columns: '2'
+      columns: '3'
     design:
       # Choose a view for the listings:
-      view: showcase
+      view: article-grid
       columns: '2'
       
   - block: collection
